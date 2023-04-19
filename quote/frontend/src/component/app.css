@@ -1,0 +1,38 @@
+
+.quote {
+    background: linear-gradient(to right,#8b5c60,#9787ac);
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+    height:540px
+  }
+  
+  .quote p {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #fc5c7d;
+  }
+  
+  .quote cite {
+    font-style: italic;
+    font-size: 18px;
+  }
+ 
+ 
+  .btn {
+    background: linear-gradient(to right, #6c2da0, #fda085);
+    background-size: 200% auto;
+    color: #fff;
+    transition: all 0.3s ease-out;
+    position: absolute;
+    top: 400px;
+    right: 0;
+    width: 25%;
+    min-width: 100pxx;
+  }
+  
+  .btn:hover {
+    background-position: right center;
+  }
+  
